@@ -1,0 +1,32 @@
+body {
+    min-height: 2000px;
+    overflow-x: hidden;
+    background-color: #acdde1;
+}
+
+.jumbotron {
+    padding-top: 4rem;
+    max-height: 100vh;
+    padding-bottom: 50px;
+}
+
+.navbar{
+    position: fixed;
+    width: 100vw;
+    z-index: 100;
+ }
+
+.wave {
+    transform: translateY(-180px);
+}
+.wave1 {
+    transform: translateY(-150px);
+}
+
+.project {
+    padding-top: 50px;
+}
+
+.about{
+    padding-top: 70px;
+}
